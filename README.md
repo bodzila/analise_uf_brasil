@@ -1,4 +1,6 @@
 # Análise da Expectativa de Vida vs Renda per Capita no Brasil, por UF
+Geração de um ScatterPlot comparando a Expectativa de Vida (em anos) com a Renda per Capita (em R$) nos Estados do Brasil.
+Cada ponto do gráfico foi plotado com cor correspondente a sua Região no país, e tamanho proporcional a sua população.
 
 # Fontes dos Dados:
 
